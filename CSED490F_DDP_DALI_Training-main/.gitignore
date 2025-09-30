@@ -1,0 +1,29 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+.idea/
+
+# Virtual environment / local config
+.env
+.env.*
+
+# Training outputs and logs
+logs/
+reports/
+runs/
+nsight_logs/
+old*
+*TA_run*
+
+# Datasets and large artifacts
+dataset/
+
+# Profiling and checkpoints
+*.nsys-rep
+*.qdrep
+*.qdstrm
+*.pth
+*.pt

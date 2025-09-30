@@ -1,0 +1,36 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+.idea/
+
+# Virtual environments / secrets
+.env
+.env.*
+venv/
+
+# Project outputs
+runs/
+logs/
+reports/
+nsight_logs/
+old*
+*TA_run*
+
+# Datasets and heavy artifacts
+dataset/
+ddp/
+ddp_dali/
+dp/
+CSED490F_DDP_DALI_Training-main/dataset/
+CSED490F_DDP_DALI_Training-main/nsight_logs/
+CSED490F_DDP_DALI_Training-main/runs/
+
+# Profiling and checkpoints
+*.nsys-rep
+*.qdrep
+*.qdstrm
+*.pth
+*.pt
