@@ -21,9 +21,6 @@ old*
 
 # Datasets and heavy artifacts
 dataset/
-ddp/
-ddp_dali/
-dp/
 CSED490F_DDP_DALI_Training-main/dataset/
 CSED490F_DDP_DALI_Training-main/nsight_logs/
 CSED490F_DDP_DALI_Training-main/runs/
